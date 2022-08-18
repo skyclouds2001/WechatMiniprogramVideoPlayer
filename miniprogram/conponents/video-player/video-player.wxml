@@ -1,1 +1,5 @@
-<text>a</text>
+<view class="video-player">
+  <video class="video-player-context" src="{{ src }}" controls="{{ false }}" title="{{ title }}">
+    <view class="video-player-controls"></view>
+  </video>
+</view>

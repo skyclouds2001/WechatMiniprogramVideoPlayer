@@ -1,12 +1,11 @@
 {
-  "name": "miniprogram-ts-less-quickstart",
+  "name": "wx-miniprogram-video-player",
   "version": "1.0.0",
   "description": "",
-  "scripts": {
-  },
+  "scripts": {},
   "keywords": [],
-  "author": "",
-  "license": "",
+  "author": "CSY",
+  "license": "MIT",
   "dependencies": {
   },
   "devDependencies": {
