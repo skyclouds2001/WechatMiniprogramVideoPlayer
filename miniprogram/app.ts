@@ -1,4 +1,6 @@
-App<IAppOption>({
+App<{
+  globalData: {},
+}>({
 
   globalData: {},
 
